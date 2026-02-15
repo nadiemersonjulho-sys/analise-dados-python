@@ -80,3 +80,7 @@ plt.grid(True)
 plt.show()
 plt.savefig("grafico_resistencia.png", dpi=300, bbox_inches="tight")
 plt.show()
+
+## 📈 Gráfico Gerado
+
+![Distribuição de Resistência](grafico_resistencia.png)
