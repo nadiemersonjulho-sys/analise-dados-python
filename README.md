@@ -81,6 +81,17 @@ plt.show()
 plt.savefig("grafico_resistencia.png", dpi=300, bbox_inches="tight")
 plt.show()
 
-## 📈 Gráfico Gerado
+## 📊 Análise Estatística de Resistência de Material
+
+Este projeto realiza análise estatística de ensaios de resistência mecânica.
+
+### 🔧 Métodos utilizados
+- Média, mediana e moda
+- Desvio padrão
+- Coeficiente de variação
+- Z-score
+- Curva normal
+
+### 📈 Gráfico Gerado
 
 ![Distribuição de Resistência](grafico_resistencia.png)
